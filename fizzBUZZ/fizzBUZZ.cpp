@@ -14,6 +14,7 @@ int main()
 		if (i % buzz == 0)
 			cout << "Buzz";
 			
+		cout << "FIZZ" << endl;
 		cout << endl;
 	}
 	//THIS IS A TEST
